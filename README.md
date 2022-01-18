@@ -1,2 +1,2 @@
 # 1strepo
-my 1st repository
+This is my first repository :)
