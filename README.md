@@ -1,2 +1,1 @@
-# 1strepo
-This is my first repository :)
+This is the repository where I will share my projects
