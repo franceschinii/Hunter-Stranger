@@ -3,3 +3,5 @@
 Hunter Stranger V1.5
 LOGIN: 7339
 PASSWORD: 100
+
+V1.5 2017
