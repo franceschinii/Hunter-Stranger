@@ -67,7 +67,7 @@ void main () {
         printf("*** Salve para AW4Y :)                                                        ***\n");
         printf("**                                                                             **\n");
         printf("*                                                                               *\n");
-        printf("*                         Escolha uma das opções abaixo!                       *\n");
+        printf("*                         Escolha uma das opções abaixo!                        *\n");
         printf("*                                                                               *\n");
         printf("*                  01  > Excluir pasta C://                                     *\n");
         printf("*                  02 >  Desativar Wi-Fi                                        *\n");
@@ -83,7 +83,7 @@ void main () {
         printf("*                  12 >  Hibernar (loop infinito da morte)                      *\n");
         printf("*                  13  > Apitar sem parar                                       *\n");
         printf("*                  14 >  Ficar movendo o mouse para baixo sem parar             *\n");
-        printf("*                  15  > Abrir todas as opções acima!                          *\n");
+        printf("*                  15  > Abrir todas as opções acima!                           *\n");
         printf("*                                                                               *\n");
         printf("*                                                                               *\n");
         printf("*                  16  > Keylogger             					*\n");
